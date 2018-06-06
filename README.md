@@ -48,5 +48,6 @@ Goto sample folder, Run "python visualize_cv2.py" in terminal.
 Stream on webcam is quite lagging. I think only 2fps. I read that the creator only got 5fps. I'm not sure if I use a light model will help or not. But I guess I can't change it since it is built on Faster-RCNN.
 Click below for my video demo.
 
+[![LIVE DEMO](https://i.imgur.com/mUoP1J1.jpg)](https://youtu.be/_I44RHIIe2A)  
 
 
