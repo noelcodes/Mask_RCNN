@@ -1,5 +1,6 @@
 # [Home Page](https://noelcodes.github.io/)
 
+Exploring this technique. All credits to matterport and markjay and FAIR
 #### Credits to matterport and markjay4k.
 https://github.com/matterport/Mask_RCNN <br>
 https://github.com/markjay4k/Mask-RCNN-series <br>
