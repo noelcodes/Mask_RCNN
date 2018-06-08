@@ -1,7 +1,11 @@
 # [Home Page](https://noelcodes.github.io/)
+
+#### Credits to matterport and markjay4k.
+https://github.com/matterport/Mask_RCNN
+https://github.com/markjay4k/Mask-RCNN-series
+
 # Mask_RCNN
 Faster RCNN (object detection with bounding boxes) + Masks
-Of course I did not code this, credits to matterport.
 Developed by the Facebook AI Research (FAIR).
 Read more on it here https://arxiv.org/pdf/1703.06870.pdf
 Watch a intro video on it https://www.youtube.com/watch?v=g7z4mkfRjI4
