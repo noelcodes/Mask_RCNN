@@ -5,6 +5,9 @@ Exploring this technique. All credits to matterport and markjay and FAIR
 https://github.com/matterport/Mask_RCNN <br>
 https://github.com/markjay4k/Mask-RCNN-series <br>
 
+[![LIVE DEMO](https://github.com/noelcodes/Mask_RCNN/blob/master/ezgif.com-video-to-gif.gif)](https://youtu.be/_I44RHIIe2A) 
+
+
 # Mask_RCNN
 Faster RCNN (object detection with bounding boxes) + Masks
 Developed by the Facebook AI Research (FAIR).
@@ -53,6 +56,6 @@ Goto sample folder, Run "python visualize_cv2.py" in terminal.
 Stream on webcam is quite lagging. I think only 2fps. I read that the creator only got 5fps. I'm not sure if I use a light model will help or not. But I guess I can't change it since Mask is built on Faster-RCNN.
 Click below for my video demo.
 
-[![LIVE DEMO](https://i.imgur.com/mUoP1J1.jpg)](https://youtu.be/_I44RHIIe2A)  
+ 
 
 
