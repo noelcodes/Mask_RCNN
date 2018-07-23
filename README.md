@@ -1,15 +1,16 @@
 # [Home Page](https://noelcodes.github.io/)
 # Mask_RCNN 
-Faster RCNN (object detection with bounding boxes) + Masks
-Exploring Mask_RCNN. Just curious what is Mask_RCNN, so followed tutorial by Mark Jay and made it working on my laptop.
+Curious what is Mask_RCNN, so I followed tutorial by Mark Jay and made it working on my laptop.
+So it is actually Faster RCNN (object detection with bounding boxes) + Masks
 
 #### Reference
 Paper by the Facebook AI Research (FAIR) : https://arxiv.org/pdf/1703.06870.pdf <br>
 Theory: https://www.youtube.com/watch?v=g7z4mkfRjI4 <br>
-Tutorial : https://www.youtube.com/playlist?list=PLX-LrBk6h3wRAF22jBUxDgOvyhIgLN4Cg
+Tutorial : https://www.youtube.com/playlist?list=PLX-LrBk6h3wRAF22jBUxDgOvyhIgLN4Cg <br>
 Repo: https://github.com/matterport/Mask_RCNN <br>
 Repo: https://github.com/markjay4k/Mask-RCNN-series <br>
 
+Run on my laptop, see my demo video below:
 [![LIVE DEMO](https://github.com/noelcodes/Mask_RCNN/blob/master/ezgif.com-video-to-gif.gif)](https://youtu.be/_I44RHIIe2A) 
 
 ![alt text](https://i.imgur.com/u1TkBuf.jpg)   
